@@ -39,4 +39,4 @@ For [IMG.jsonl.gz](data/framed30k/IMG.jsonl.gz), two extra fields (```annotation
 
 ## How to cite
 
-We'll update the repo with the BibTex soon.
+Marcelo Viridiano, Arthur Lorenzi, Tiago Timponi Torrent, Ely E. Matos, Adriana S. Pagano, Natália Sathler Sigiliano, Maucha Gamonal, Helen de Andrade Abreu, Lívia Vicente Dutra, Mairon Samagaio, Mariane Carvalho, Franciany Campos, Gabrielly Azalim, Bruna Mazzei, Mateus Fonseca de Oliveira, Ana Carolina Luz, Livia Padua Ruiz, Júlia Bellei, Amanda Pestana, et al.. 2024. [Framed Multi30K: A Frame-Based Multimodal-Multilingual Dataset](https://aclanthology.org/2024.lrec-main.656/). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 7438–7449, Torino, Italia. ELRA and ICCL.
